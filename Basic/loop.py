@@ -81,9 +81,9 @@ l_11 = ["sudh","kumar","krish","naik"]
 #     print("Execute this if for loop is able to complete itself")
 
 
-for i in l_11 :
-    if i == 'kumar' :
-        continue
-    print(i)
-else :
-    print("If Executed for loop after that it print")
+# for i in l_11 :
+#     if i == 'kumar' :
+#         continue
+#     print(i)
+# else :
+#     print("If Executed for loop after that it print")
